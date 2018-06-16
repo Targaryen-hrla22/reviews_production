@@ -1,0 +1,25 @@
+{
+  "name": "targaryen-airbnb-reviews-production",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "server": "node server/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Targaryen-hrla22/reviews_production.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Targaryen-hrla22/reviews_production/issues"
+  },
+  "homepage": "https://github.com/Targaryen-hrla22/reviews_production#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "mongoose": "^5.1.5"
+  }
+}
